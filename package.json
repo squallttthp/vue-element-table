@@ -1,7 +1,8 @@
 {
-  "name": "@min-loyalty/vue-element-table",
+  "name": "@squallttthp/vue-element-table",
   "version": "0.0.1",
   "description": "Vue Table with Element UI",
+  "repository": "squallttthp/vue-element-table",
   "main": "dist/vue-element-table.ssr.js",
   "browser": "dist/vue-element-table.esm.js",
   "module": "dist/vue-element-table.esm.js",
